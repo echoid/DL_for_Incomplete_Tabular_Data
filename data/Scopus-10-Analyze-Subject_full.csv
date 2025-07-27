@@ -1,0 +1,35 @@
+﻿Scopus-10-Analyze-Subject
+
+"Your query : (TITLE-ABS-KEY(""incomplete data"" OR ""missing data"" OR ""data imputation"" OR ""missing value imputation"" OR ""data completion"") AND PUBYEAR > 1999 AND PUBYEAR < 2027 AND ( LIMIT-TO ( EXACTKEYWORD,""Missing Data"" ) OR LIMIT-TO ( EXACTKEYWORD,""Incomplete Data"" ) ) )"
+
+
+Number of results : 10
+
+"SUBJECT AREA",
+"Computer Science","5553"
+"Mathematics","4456"
+"Engineering","3330"
+"Medicine","1839"
+"Decision Sciences","1634"
+"Social Sciences","887"
+"Physics and Astronomy","646"
+"Biochemistry, Genetics and Molecular Biology","622"
+"Agricultural and Biological Sciences","564"
+"Environmental Science","529"
+"Earth and Planetary Sciences","512"
+"Psychology","373"
+"Energy","365"
+"Materials Science","346"
+"Business, Management and Accounting","254"
+"Economics, Econometrics and Finance","254"
+"Pharmacology, Toxicology and Pharmaceutics","247"
+"Health Professions","201"
+"Chemistry","188"
+"Immunology and Microbiology","184"
+"Neuroscience","180"
+"Chemical Engineering","168"
+"Arts and Humanities","155"
+"Multidisciplinary","87"
+"Nursing","68"
+"Dentistry","7"
+"Veterinary","6"

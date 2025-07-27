@@ -1,0 +1,35 @@
+﻿Scopus-10-Analyze-Year
+
+"Your query : (TITLE-ABS-KEY((""incomplete data"" OR ""missing data"" OR ""data imputation"" OR ""missing value imputation"" OR ""data completion"") AND (""machine learning"" OR ""supervised learning"" OR ""unsupervised learning"" OR ""random forest"" OR ""XGBoost"" OR ""gradient boosting"" OR ""decision tree"" OR ""support vector machine"" OR ""SVM"" OR ""naive bayes"" OR ""k-nearest neighbor"" OR ""k-NN"")) AND PUBYEAR > 1999 AND PUBYEAR < 2027)"
+
+
+Number of results : 10
+
+"YEAR",
+"2026","2"
+"2025","807"
+"2024","1220"
+"2023","911"
+"2022","754"
+"2021","622"
+"2020","526"
+"2019","386"
+"2018","284"
+"2017","196"
+"2016","169"
+"2015","148"
+"2014","103"
+"2013","63"
+"2012","88"
+"2011","62"
+"2010","62"
+"2009","46"
+"2008","50"
+"2007","38"
+"2006","40"
+"2005","24"
+"2004","23"
+"2003","17"
+"2002","7"
+"2001","9"
+"2000","4"

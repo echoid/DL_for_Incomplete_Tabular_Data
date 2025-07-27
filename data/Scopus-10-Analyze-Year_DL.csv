@@ -1,0 +1,35 @@
+﻿Scopus-10-Analyze-Year
+
+"Your query : (TITLE-ABS-KEY((""incomplete data"" OR ""missing data"" OR ""data imputation"" OR ""missing value imputation"" OR ""data completion"") AND (""deep learning"" OR ""neural network"" OR ""generative model"" OR ""autoencoder"" OR ""variational autoencoder"" OR ""GAN"" OR ""transformer"")) AND PUBYEAR > 1999 AND PUBYEAR < 2027)"
+
+
+Number of results : 10
+
+"YEAR",
+"2026","4"
+"2025","728"
+"2024","1046"
+"2023","818"
+"2022","669"
+"2021","532"
+"2020","393"
+"2019","292"
+"2018","189"
+"2017","118"
+"2016","82"
+"2015","66"
+"2014","56"
+"2013","72"
+"2012","52"
+"2011","49"
+"2010","44"
+"2009","38"
+"2008","50"
+"2007","48"
+"2006","45"
+"2005","50"
+"2004","28"
+"2003","24"
+"2002","13"
+"2001","23"
+"2000","21"

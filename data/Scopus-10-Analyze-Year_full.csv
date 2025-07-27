@@ -1,0 +1,35 @@
+﻿Scopus-10-Analyze-Year
+
+"Your query : (TITLE-ABS-KEY(""incomplete data"" OR ""missing data"" OR ""data imputation"" OR ""missing value imputation"" OR ""data completion"") AND PUBYEAR > 1999 AND PUBYEAR < 2027 AND ( LIMIT-TO ( EXACTKEYWORD,""Missing Data"" ) OR LIMIT-TO ( EXACTKEYWORD,""Incomplete Data"" ) ) )"
+
+
+Number of results : 10
+
+"YEAR",
+"2026","2"
+"2025","611"
+"2024","1105"
+"2023","1013"
+"2022","952"
+"2021","811"
+"2020","739"
+"2019","604"
+"2018","582"
+"2017","521"
+"2016","502"
+"2015","445"
+"2014","438"
+"2013","408"
+"2012","551"
+"2011","547"
+"2010","512"
+"2009","432"
+"2008","305"
+"2007","223"
+"2006","223"
+"2005","213"
+"2004","159"
+"2003","131"
+"2002","107"
+"2001","89"
+"2000","75"
