@@ -1,0 +1,25 @@
+﻿Scopus-10-分析-年份
+
+"您的检索式: (TITLE-ABS-KEY((""incomplete data"" OR ""missing data"" OR ""data imputation"" OR ""missing value imputation"" OR ""data completion"")AND (""normalizing flow"" OR ""flow-based model"" OR ""masked autoencoder"" OR ""BERT imputation"" OR ""Transformer""))AND PUBYEAR > 1999 AND PUBYEAR < 2027)"
+
+
+检索结果数量: 10
+
+"年份",
+"2026","1"
+"2025","116"
+"2024","151"
+"2023","90"
+"2022","36"
+"2021","22"
+"2020","11"
+"2019","9"
+"2018","3"
+"2017","7"
+"2016","3"
+"2015","3"
+"2014","3"
+"2013","2"
+"2008","1"
+"2007","1"
+"2006","2"

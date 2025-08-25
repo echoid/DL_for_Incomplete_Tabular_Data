@@ -1,0 +1,17 @@
+﻿Scopus-10-分析-年份
+
+"您的检索式: (TITLE-ABS-KEY((""incomplete data"" OR ""missing data"" OR ""data imputation"" OR ""missing value imputation"" OR ""data completion"")AND (""variational autoencoder"" OR ""VAE""))AND PUBYEAR > 1999 AND PUBYEAR < 2027)"
+
+
+检索结果数量: 10
+
+"年份",
+"2025","28"
+"2024","42"
+"2023","24"
+"2022","20"
+"2021","16"
+"2020","21"
+"2019","6"
+"2018","2"
+"2017","1"
